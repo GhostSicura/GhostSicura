@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GhostSicura,
+- 👀 I’m interested in learn and grow in the field of Cyber Security, AI, Machine Learning, etc.
+- 🌱 I’m currently learning C#, Python and Others.
+- 💞️ I’m looking to collaborate on AI.
+- 📫 How to reach me ghostsicura@proton.me
